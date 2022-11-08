@@ -1,0 +1,12 @@
+[
+  {
+    "code": 1111,
+    "product": "./img/product_picture.png",
+    "name": "Big Mac"
+  },
+  {
+    "code": 2222,
+    "product": "./img/product_picture.png",
+    "name": "Big Mac 2"
+  }
+]
